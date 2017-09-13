@@ -33,5 +33,12 @@ function longPlaneteerCalls(words)
   return false;
 }
 
-function findTheCheese (foods) {
+function findTheCheese (foods)
+{
+  for(var i = 0; i < foods.length; i++)
+  {
+    
+
+
+  }
 }
