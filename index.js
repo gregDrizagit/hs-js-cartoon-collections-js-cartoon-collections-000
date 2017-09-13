@@ -11,7 +11,12 @@ function dwarfRollCall(dwarves)
 
 function summonCaptainPlanet(planeteerCalls)
 {
-
+  var capitalArray = []; 
+  for(var i = 0; i < planeteerCalls.length; i++)
+  {
+    capitalArry[i] = `${planeteerCalls[i].toUpperCase()}!`; 
+    
+  }
 
   return 
 
