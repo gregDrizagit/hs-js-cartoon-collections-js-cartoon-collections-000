@@ -43,9 +43,11 @@ function findTheCheese (foods)
     {
         if(food[i] === cheesArray[i])
         {
-
+            return food[i];
         }
     }
   }
-  
+
+  return "no cheese!"; 
+
 }
