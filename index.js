@@ -30,8 +30,7 @@ function longPlaneteerCalls(words)
       return true;
     }
   }
-
-  return false; 
+  return false;
 }
 
 function findTheCheese (foods) {
