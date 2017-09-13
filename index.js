@@ -7,7 +7,7 @@ function dwarfRollCall(dwarves)
     dwarfString = `${i}. ${dwarves[i - 1]}`;
 
   }
-  return
+  return dwarfString; 
 }
 
 function summonCaptainPlanet(planeteerCalls){
