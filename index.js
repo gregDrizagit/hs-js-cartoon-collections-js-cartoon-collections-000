@@ -37,7 +37,7 @@ function findTheCheese (foods)
 {
   for(var i = 0; i < foods.length; i++)
   {
-    
+    if()
 
 
   }
