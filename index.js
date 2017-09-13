@@ -9,7 +9,9 @@ function dwarfRollCall(dwarves)
   return dwarfString;
 }
 
-function summonCaptainPlanet(planeteerCalls){
+function summonCaptainPlanet(planeteerCalls)
+{
+  return 
 }
 
 function longPlaneteerCalls(words) {
