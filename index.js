@@ -39,8 +39,13 @@ function findTheCheese (foods)
   var cheeseArray = ['cheddar', `gouda`, `camembert`];
   for(var i = 0; i < foods.length; i++)
   {
-    if(food[i])
+    for(var o = 0; o < cheesArray.length; o++)
+    {
+        if(food[i] === cheesArray[i])
+        {
 
-
+        }
+    }
   }
+  
 }
