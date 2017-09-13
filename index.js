@@ -43,7 +43,7 @@ function findTheCheese (foods)
     {
         if(food[i] === cheeseArray[i])
         {
-            return food[i];
+            return foods[i];
         }
     }
   }
