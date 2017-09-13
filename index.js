@@ -41,7 +41,7 @@ function findTheCheese (foods)
   {
     for(var o = 0; o < cheeseArray.length; o++)
     {
-        if(food[i] === cheeseArray[i])
+        if(foods[i] === cheeseArray[i])
         {
             return foods[i];
         }
